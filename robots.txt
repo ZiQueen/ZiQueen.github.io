@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ziqueen.github.io/sitemap.xml
